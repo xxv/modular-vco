@@ -25,13 +25,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.306109"
-     inkscape:cx="-45.211164"
-     inkscape:cy="323.19293"
+     inkscape:zoom="3.2613306"
+     inkscape:cx="3.8485657"
+     inkscape:cy="163.13246"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      showgrid="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
@@ -201,7 +201,7 @@
        id="path231"
        cx="15.249999"
        cy="29.087721"
-       r="3.25" />
+       r="3.5" />
     <circle
        transform="translate(29.523811,77.059525)"
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -250,22 +250,6 @@
          id="path6031"
          inkscape:connector-curvature="0" />
     </g>
-    <g
-       aria-label="CV"
-       transform="translate(29.523811,77.059525)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       id="text2108">
-      <path
-         d="m 13.999246,40.374938 c -0.8001,0 -1.151467,-0.5588 -1.151467,-1.0287 0,-0.465667 0.351367,-1.024467 1.151467,-1.024467 0.4064,0 0.6858,0.2159 0.6858,0.2159 l 0.338667,-0.677333 c 0,0 -0.389467,-0.321733 -1.147234,-0.321733 -0.9906,0 -1.8923,0.8128 -1.8923,1.8161 0,0.999066 0.905934,1.803399 1.8923,1.803399 0.757767,0 1.147234,-0.321733 1.147234,-0.321733 l -0.338667,-0.677333 c 0,0 -0.2794,0.2159 -0.6858,0.2159 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff00ff;stroke-width:0.26458332"
-         id="path6034"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 16.424549,41.094604 h 0.626533 l 1.464734,-3.492499 h -0.897467 l -0.880533,2.294466 -0.880534,-2.294466 h -0.897466 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff00ff;stroke-width:0.26458332"
-         id="path6036"
-         inkscape:connector-curvature="0" />
-    </g>
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.73447156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 41.71717,195.80171 a 0.3672725,0.3672725 0 0 0 -0.30664,0.21093 l -1.519531,3.23829 a 0.3672725,0.3672725 0 1 0 0.664062,0.31054 l 1.1875,-2.53125 1.1875,2.53125 a 0.3672725,0.3672725 0 0 0 0.664062,0 l 1.189454,-2.53125 1.1875,2.53125 a 0.3672725,0.3672725 0 0 0 0.664062,0 l 1.1875,-2.52929 1.1875,2.52929 a 0.36742768,0.36742768 0 1 0 0.666016,-0.31054 l -1.519532,-3.23829 a 0.3672725,0.3672725 0 0 0 -0.666015,0 l -1.1875,2.53126 -1.1875,-2.53126 a 0.3672725,0.3672725 0 0 0 -0.664063,0 l -1.189453,2.53126 -1.1875,-2.53126 a 0.3672725,0.3672725 0 0 0 -0.357422,-0.21093 z"
@@ -276,6 +260,31 @@
        d="m 43.246467,177.53218 a 0.36711758,0.36711758 0 0 0 -0.257812,0.11523 l -3.03711,3.23828 a 0.36711758,0.36711758 0 1 0 0.535157,0.50195 l 2.402343,-2.56054 v 2.31054 a 0.36711758,0.36711758 0 0 0 0.634766,0.25 l 2.404297,-2.5625 v 2.3125 a 0.36711758,0.36711758 0 0 0 0.634765,0.25 l 2.402344,-2.56054 v 2.31054 a 0.3671875,0.3671875 0 1 0 0.734375,0 v -3.24023 a 0.36711758,0.36711758 0 0 0 -0.634765,-0.25 l -2.404297,2.5625 v -2.3125 a 0.36711758,0.36711758 0 0 0 -0.634766,-0.25 l -2.402344,2.56055 v -2.31055 a 0.36711758,0.36711758 0 0 0 -0.376953,-0.36523 z"
        id="path6056"
        inkscape:connector-curvature="0" />
+    <g
+       aria-label="Tune"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text6021-3">
+      <path
+         d="m 39.522129,115.36013 h 0.829733 v 2.794 h 0.795867 v -2.794 h 0.829733 v -0.6985 h -2.455333 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff00ff;stroke-width:0.26458332"
+         id="path3708"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 42.673382,115.98243 h -0.7493 v 1.21497 c 0,0.72813 0.364067,1.02023 1.176867,1.02023 0.8128,0 1.176866,-0.2921 1.176866,-1.02023 v -1.21497 h -0.7493 v 1.03293 c 0,0.42757 -0.1143,0.59267 -0.427566,0.59267 -0.313267,0 -0.427567,-0.1651 -0.427567,-0.59267 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff00ff;stroke-width:0.26458332"
+         id="path3710"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 44.74454,118.15413 h 0.7493 v -1.22767 c 0,-0.2159 0.220134,-0.42333 0.4445,-0.42333 0.2413,0 0.389467,0.20743 0.389467,0.42333 v 1.22767 h 0.7493 v -1.43087 c 0,-0.60536 -0.554567,-0.80433 -0.9525,-0.80433 -0.237067,0 -0.452967,0.12277 -0.6223,0.2921 h -0.0085 v -0.2286 h -0.7493 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff00ff;stroke-width:0.26458332"
+         id="path3712"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 49.736302,117.172 c 0.0042,-0.0254 0.0042,-0.072 0.0042,-0.1016 0,-0.762 -0.503767,-1.15147 -1.164167,-1.15147 -0.656166,0 -1.1938,0.51647 -1.1938,1.15147 0,0.63076 0.537634,1.14723 1.1938,1.14723 0.4826,0 0.880534,-0.15663 1.126067,-0.56727 l -0.541867,-0.27093 c -0.182033,0.19473 -0.287866,0.2413 -0.529166,0.2413 -0.1905,0 -0.4699,-0.1143 -0.4699,-0.44873 z m -1.553634,-0.41487 c 0.0127,-0.19897 0.156634,-0.35137 0.414867,-0.35137 0.220133,0 0.376767,0.12277 0.410633,0.35137 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff00ff;stroke-width:0.26458332"
+         id="path3714"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -340,17 +349,6 @@
          x="15.140364"
          y="72.74688"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff00ff;stroke-width:0.26458332">CV</tspan></text>
-    <text
-       id="text6021"
-       y="41.094604"
-       x="15.140361"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff00ff;stroke-width:0.26458332"
-         y="41.094604"
-         x="15.140361"
-         id="tspan6019"
-         sodipodi:role="line">CV</tspan></text>
     <path
        sodipodi:nodetypes="ccccccc"
        style="display:inline;fill:none;stroke:#ff00ff;stroke-width:0.73447156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -362,12 +360,23 @@
        id="path6056-8"
        d="m 10.695627,104.07734 3.037432,-3.23856 v 3.23855 l 3.037435,-3.23855 v 3.23855 l 3.037428,-3.23855 v 3.23855"
        style="display:inline;fill:none;stroke:#ff00ff;stroke-width:0.73416173;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text6021-3-3"
+       y="41.094604"
+       x="15.140362"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff00ff;stroke-width:0.26458332"
+         y="41.094604"
+         x="15.140362"
+         id="tspan6019-3"
+         sodipodi:role="line">Tune</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="mechanical"
-     style="display:none">
+     style="display:inline">
     <g
        id="g224"
        transform="translate(0.25876336,22.652979)">
