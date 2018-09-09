@@ -156,17 +156,17 @@ $EndComp
 $Comp
 L Device:R_POT RV1
 U 1 1 5B6D2DC3
-P 6700 1900
-F 0 "RV1" V 6600 1900 50  0000 C CNN
-F 1 "100K" V 6700 1900 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 6700 1900 50  0001 C CNN
-F 3 "~" H 6700 1900 50  0001 C CNN
-F 4 "-" H 0   -300 50  0001 C CNN "MFR"
-F 5 "-" H 0   -300 50  0001 C CNN "MPN"
-F 6 "-" H 0   -300 50  0001 C CNN "SPR"
-F 7 "-" H 0   -300 50  0001 C CNN "SPN"
-F 8 "-" H 0   -300 50  0001 C CNN "SPURL"
-	1    6700 1900
+P 1400 4850
+F 0 "RV1" V 1300 4850 50  0000 C CNN
+F 1 "100K" V 1400 4850 50  0000 C CNN
+F 2 "Potentiometer_THT:Potentiometer_Alps_RK09L_Single_Vertical" H 1400 4850 50  0001 C CNN
+F 3 "~" H 1400 4850 50  0001 C CNN
+F 4 "-" H -5300 2650 50  0001 C CNN "MFR"
+F 5 "-" H -5300 2650 50  0001 C CNN "MPN"
+F 6 "-" H -5300 2650 50  0001 C CNN "SPR"
+F 7 "-" H -5300 2650 50  0001 C CNN "SPN"
+F 8 "-" H -5300 2650 50  0001 C CNN "SPURL"
+	1    1400 4850
 	0    1    1    0   
 $EndComp
 $Comp
@@ -320,39 +320,6 @@ F 8 "-" H 0   0   50  0001 C CNN "SPURL"
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR0110
-U 1 1 5B6EEEFF
-P 2000 2050
-F 0 "#PWR0110" H 2000 1800 50  0001 C CNN
-F 1 "GND" V 2005 1922 50  0000 R CNN
-F 2 "" H 2000 2050 50  0001 C CNN
-F 3 "" H 2000 2050 50  0001 C CNN
-	1    2000 2050
-	0    -1   -1   0   
-$EndComp
-$Comp
-L power:GND #PWR0111
-U 1 1 5B6EEF99
-P 2000 2750
-F 0 "#PWR0111" H 2000 2500 50  0001 C CNN
-F 1 "GND" V 2005 2622 50  0000 R CNN
-F 2 "" H 2000 2750 50  0001 C CNN
-F 3 "" H 2000 2750 50  0001 C CNN
-	1    2000 2750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L power:GND #PWR0112
-U 1 1 5B6EF033
-P 2000 1050
-F 0 "#PWR0112" H 2000 800 50  0001 C CNN
-F 1 "GND" V 2005 922 50  0000 R CNN
-F 2 "" H 2000 1050 50  0001 C CNN
-F 3 "" H 2000 1050 50  0001 C CNN
-	1    2000 1050
-	0    -1   -1   0   
-$EndComp
-$Comp
 L power:-12V #PWR0107
 U 1 1 5B709EC8
 P 9800 2750
@@ -388,12 +355,12 @@ $EndComp
 $Comp
 L power:+12V #PWR0120
 U 1 1 5B70A098
-P 6850 1900
-F 0 "#PWR0120" H 6850 1750 50  0001 C CNN
-F 1 "+12V" V 6865 2028 50  0000 L CNN
-F 2 "" H 6850 1900 50  0001 C CNN
-F 3 "" H 6850 1900 50  0001 C CNN
-	1    6850 1900
+P 2750 3950
+F 0 "#PWR0120" H 2750 3800 50  0001 C CNN
+F 1 "+12V" V 2765 4078 50  0000 L CNN
+F 2 "" H 2750 3950 50  0001 C CNN
+F 3 "" H 2750 3950 50  0001 C CNN
+	1    2750 3950
 	0    1    1    0   
 $EndComp
 $Comp
@@ -482,54 +449,6 @@ F 1 "PWR_FLAG" H 10950 6423 50  0000 C CNN
 F 2 "" H 10950 6250 50  0001 C CNN
 F 3 "~" H 10950 6250 50  0001 C CNN
 	1    10950 6250
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x02 J1
-U 1 1 5B713617
-P 1800 1150
-F 0 "J1" H 1720 825 50  0000 C CNN
-F 1 "CVIN" H 1720 916 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1800 1150 50  0001 C CNN
-F 3 "~" H 1800 1150 50  0001 C CNN
-F 4 "-" H 0   0   50  0001 C CNN "MFR"
-F 5 "-" H 0   0   50  0001 C CNN "MPN"
-F 6 "-" H 0   0   50  0001 C CNN "SPR"
-F 7 "-" H 0   0   50  0001 C CNN "SPN"
-F 8 "-" H 0   0   50  0001 C CNN "SPURL"
-	1    1800 1150
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x02 J2
-U 1 1 5B713A53
-P 1800 2150
-F 0 "J2" H 1720 1825 50  0000 C CNN
-F 1 "SAW" H 1720 1916 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1800 2150 50  0001 C CNN
-F 3 "~" H 1800 2150 50  0001 C CNN
-F 4 "-" H 0   0   50  0001 C CNN "MFR"
-F 5 "-" H 0   0   50  0001 C CNN "MPN"
-F 6 "-" H 0   0   50  0001 C CNN "SPR"
-F 7 "-" H 0   0   50  0001 C CNN "SPN"
-F 8 "-" H 0   0   50  0001 C CNN "SPURL"
-	1    1800 2150
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x02 J3
-U 1 1 5B713CC1
-P 1800 2850
-F 0 "J3" H 1720 2525 50  0000 C CNN
-F 1 "TRI" H 1720 2616 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1800 2850 50  0001 C CNN
-F 3 "~" H 1800 2850 50  0001 C CNN
-F 4 "-" H 0   0   50  0001 C CNN "MFR"
-F 5 "-" H 0   0   50  0001 C CNN "MPN"
-F 6 "-" H 0   0   50  0001 C CNN "SPR"
-F 7 "-" H 0   0   50  0001 C CNN "SPN"
-F 8 "-" H 0   0   50  0001 C CNN "SPURL"
-	1    1800 2850
 	-1   0    0    1   
 $EndComp
 $Comp
@@ -732,13 +651,11 @@ VP
 Text Label 5850 2600 0    50   ~ 0
 VFCI
 Text Label 6350 2000 3    50   ~ 0
-CVIN
-Text Label 2500 2150 2    50   ~ 0
-SAW_OUT
-Text Label 2500 2850 2    50   ~ 0
-TRI_OUT
-Text Label 2500 1150 2    50   ~ 0
-CVIN
+CV_IN
+Text Label 2100 6100 2    50   ~ 0
+D_SAW_OUT
+Text Label 2100 6650 2    50   ~ 0
+D_TRI_OUT
 Text Label 7750 3400 0    50   ~ 0
 VP
 Text Label 7750 3500 0    50   ~ 0
@@ -832,13 +749,13 @@ Wire Wire Line
 Wire Wire Line
 	6350 2000 6350 2300
 Wire Wire Line
-	6700 2050 6700 2100
+	1400 5000 1400 5050
 Wire Wire Line
-	6550 1900 6550 2100
+	1250 4850 1250 5050
 Wire Wire Line
-	6550 2100 6700 2100
+	1250 5050 1400 5050
 Wire Wire Line
-	6700 2100 6700 2300
+	1400 5050 1950 5050
 Wire Notes Line
 	7950 500  7950 3250
 Wire Notes Line
@@ -848,15 +765,11 @@ Wire Notes Line
 Wire Notes Line
 	5400 1650 7950 1650
 Wire Wire Line
-	2000 2150 2500 2150
+	1600 6100 2100 6100
 Wire Wire Line
-	2000 2850 2500 2850
-Wire Wire Line
-	2000 1150 2500 1150
+	1600 6650 2100 6650
 Wire Notes Line
-	800  500  800  3250
-Wire Notes Line
-	800  3250 11150 3250
+	3150 3250 11150 3250
 Wire Wire Line
 	8100 3400 7750 3400
 Wire Wire Line
@@ -888,7 +801,7 @@ Connection ~ 9900 2300
 Connection ~ 9900 2450
 Connection ~ 10500 3000
 Connection ~ 6350 2600
-Connection ~ 6700 2100
+Connection ~ 1400 5050
 Connection ~ 9800 2350
 Wire Wire Line
 	6350 2600 6700 2600
@@ -906,4 +819,201 @@ $EndComp
 Connection ~ 6700 2600
 Wire Wire Line
 	6700 2600 6850 2600
+$Comp
+L Connector:AudioJack2_Ground_Switch J1
+U 1 1 5B958F13
+P 1400 5550
+F 0 "J1" H 1404 5892 50  0000 C CNN
+F 1 "CVIN" H 1404 5801 50  0000 C CNN
+F 2 "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1400 5550 50  0001 C CNN
+F 3 "~" H 1400 5550 50  0001 C CNN
+	1    1400 5550
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1600 5650
+$Comp
+L Connector:AudioJack2_Ground_Switch J2
+U 1 1 5B95A06C
+P 1400 6100
+F 0 "J2" H 1404 6442 50  0000 C CNN
+F 1 "SAW" H 1404 6351 50  0000 C CNN
+F 2 "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1400 6100 50  0001 C CNN
+F 3 "~" H 1400 6100 50  0001 C CNN
+	1    1400 6100
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1600 6200
+$Comp
+L Connector:AudioJack2_Ground_Switch J3
+U 1 1 5B95B1F4
+P 1400 6650
+F 0 "J3" H 1404 6992 50  0000 C CNN
+F 1 "TRI" H 1404 6901 50  0000 C CNN
+F 2 "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1400 6650 50  0001 C CNN
+F 3 "~" H 1400 6650 50  0001 C CNN
+	1    1400 6650
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1600 6750
+Wire Notes Line
+	1050 3850 2550 3850
+Wire Notes Line
+	2550 3850 2550 6850
+Wire Notes Line
+	2550 6850 1050 6850
+Wire Notes Line
+	1050 6850 1050 3850
+$Comp
+L power:GND #PWR01
+U 1 1 5B96575B
+P 2750 4050
+F 0 "#PWR01" H 2750 3800 50  0001 C CNN
+F 1 "GND" V 2755 3922 50  0000 R CNN
+F 2 "" H 2750 4050 50  0001 C CNN
+F 3 "" H 2750 4050 50  0001 C CNN
+	1    2750 4050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2750 4150 3200 4150
+Text Label 3200 4150 2    50   ~ 0
+CV_IN
+Wire Wire Line
+	2750 4350 3200 4350
+Text Label 3200 4350 2    50   ~ 0
+SAW_OUT
+Wire Wire Line
+	2350 4050 1850 4050
+Text Label 1850 4050 0    50   ~ 0
+D_GND
+Wire Wire Line
+	1600 5450 2150 5450
+Text Label 2150 5450 2    50   ~ 0
+D_GND
+Wire Wire Line
+	1600 5550 2150 5550
+Text Label 2150 5550 2    50   ~ 0
+D_CV_IN
+Wire Wire Line
+	2350 4150 1850 4150
+Text Label 1850 4150 0    50   ~ 0
+D_CV_IN
+Wire Wire Line
+	2350 4350 1850 4350
+Text Label 1850 4350 0    50   ~ 0
+D_SAW_OUT
+Wire Wire Line
+	1600 6000 2100 6000
+Text Label 2100 6000 2    50   ~ 0
+D_GND
+Wire Wire Line
+	1600 6550 2100 6550
+Text Label 2100 6550 2    50   ~ 0
+D_GND
+Wire Wire Line
+	2350 4450 1850 4450
+Text Label 1850 4450 0    50   ~ 0
+D_TRI_OUT
+Wire Wire Line
+	2750 4450 3200 4450
+Text Label 3200 4450 2    50   ~ 0
+TRI_OUT
+Wire Wire Line
+	6700 2300 6700 1850
+Text Label 6700 1850 3    50   ~ 0
+TUNE_POT
+Wire Wire Line
+	2750 4550 3200 4550
+Text Label 3200 4550 2    50   ~ 0
+TUNE_POT
+Wire Wire Line
+	2350 4550 1850 4550
+Text Label 1850 4550 0    50   ~ 0
+D_TUNE_POT
+Wire Wire Line
+	2350 3950 1850 3950
+Text Label 1850 3950 0    50   ~ 0
+D_12V
+Wire Wire Line
+	1550 4850 1850 4850
+Text Label 1850 4850 2    50   ~ 0
+D_12V
+Text Label 1950 5050 2    50   ~ 0
+D_TUNE_POT
+Text Notes 1500 6950 0    50   ~ 0
+Front Panel Board
+$Comp
+L power:PWR_FLAG #FLG0104
+U 1 1 5B9E9035
+P 1250 4100
+F 0 "#FLG0104" H 1250 4175 50  0001 C CNN
+F 1 "PWR_FLAG" H 1250 4274 50  0000 C CNN
+F 2 "" H 1250 4100 50  0001 C CNN
+F 3 "~" H 1250 4100 50  0001 C CNN
+	1    1250 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1250 4100 1250 4400
+Text Label 1250 4400 1    50   ~ 0
+D_GND
+Wire Wire Line
+	1450 4000 1450 4350
+Text Label 1450 4000 3    50   ~ 0
+D_12V
+$Comp
+L power:PWR_FLAG #FLG0105
+U 1 1 5B9ED033
+P 1450 4350
+F 0 "#FLG0105" H 1450 4425 50  0001 C CNN
+F 1 "PWR_FLAG" H 1450 4523 50  0000 C CNN
+F 2 "" H 1450 4350 50  0001 C CNN
+F 3 "~" H 1450 4350 50  0001 C CNN
+	1    1450 4350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x03_Female J6
+U 1 1 5BA0A1F6
+P 2550 4050
+F 0 "J6" H 1850 4400 50  0000 L CNN
+F 1 "Daughter_top" H 1850 4300 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 2550 4050 50  0001 C CNN
+F 3 "~" H 2550 4050 50  0001 C CNN
+	1    2550 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x03_Female J8
+U 1 1 5BA0A29C
+P 2550 4450
+F 0 "J8" H 1850 4150 50  0000 L CNN
+F 1 "Daughter_bottom" H 1850 4250 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 2550 4450 50  0001 C CNN
+F 3 "~" H 2550 4450 50  0001 C CNN
+	1    2550 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x03_Male J7
+U 1 1 5BA0A624
+P 2550 4050
+F 0 "J7" H 2700 4400 50  0000 C CNN
+F 1 "Mother_top" H 2850 4300 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 2550 4050 50  0001 C CNN
+F 3 "~" H 2550 4050 50  0001 C CNN
+	1    2550 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x03_Male J9
+U 1 1 5BA0A7B8
+P 2550 4450
+F 0 "J9" H 2700 4150 50  0000 C CNN
+F 1 "Mother_bottom" H 2950 4250 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 2550 4450 50  0001 C CNN
+F 3 "~" H 2550 4450 50  0001 C CNN
+	1    2550 4450
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
